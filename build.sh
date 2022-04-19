@@ -1,2 +1,2 @@
-yarn 
-yarn build
+cnpm install
+npm run build
